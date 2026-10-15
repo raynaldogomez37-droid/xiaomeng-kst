@@ -1,0 +1,31 @@
+{
+  "_说明": "各个软件的最新版本信息。发新版时：把对应软件的 code（版本号，每次加 1）、name（给人看的版本名）、url（下载地址）、notes（更新内容）改好，传到 GitHub。url 留空 = 不提示更新。min_code 比软件本机版本号大 = 强制更新。",
+  "campus": {
+    "code": 1,
+    "name": "1.0",
+    "url": "",
+    "notes": "",
+    "min_code": 0
+  },
+  "coach": {
+    "code": 1,
+    "name": "1.0",
+    "url": "",
+    "notes": "",
+    "min_code": 0
+  },
+  "boss": {
+    "code": 1,
+    "name": "1.0",
+    "url": "",
+    "notes": "",
+    "min_code": 0
+  },
+  "pc": {
+    "code": 1,
+    "name": "1.0",
+    "url": "",
+    "notes": "",
+    "min_code": 0
+  }
+}
